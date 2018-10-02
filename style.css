@@ -4,6 +4,7 @@ img{
     margin: 10px;
     border: 2px solid chartreuse;
     transition: all 1s;
+    border-radius: 5px;
 }
 
 img:hover{
@@ -17,6 +18,10 @@ img:hover{
     background-color: #C0C0C0;
 
     
+}
+
+#page-wrapper {
+    background-color: #D3D3D3; 
 }
 
 h1{
